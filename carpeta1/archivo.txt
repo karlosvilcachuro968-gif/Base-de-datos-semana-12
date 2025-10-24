@@ -1,0 +1,9 @@
+COUNT(*) cuenta cuántos registros hay. 
+SUM(monto) suma todos los montos. 
+AVG(monto) calcula el promedio. 
+MAX(monto) y MIN(monto) buscan el mayor y menor valor. 
+CASE WHEN traduce valores según condición. 
+GROUP BY agrupa registros por columna. 
+INNER JOIN une tablas por una columna en común. 
+ORDER BY DESC ordena de mayor a menor. 
+COALESCE(valor,0) evita NULL y reemplaza por 0.
