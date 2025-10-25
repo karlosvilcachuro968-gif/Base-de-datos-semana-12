@@ -1,0 +1,11 @@
+Las tres consultas usan GROUP BY para agrupar datos por cliente o por chofer y cuentan cuántas guías tiene cada uno.
+
+La primera muestra todos los clientes y su cantidad de guías.
+
+La segunda muestra solo los clientes que tienen más de 2 guías usando HAVING.
+
+La tercera muestra los choferes que tienen 3 o más guías y también usamos HAVING.
+
+
+WHERE filtra filas antes de agrupar,
+HAVING filtra grupos después de agrupar.
