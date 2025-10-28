@@ -1,0 +1,4 @@
+El primer SELECT muestra los clientes que tienen al menos una guía de remisión registrada.
+El segundo SELECT muestra los choferes que no tienen ninguna guía de remisión asociada.
+Ambas consultas usan las subconsultas EXISTS y NOT EXISTS para verificar la existencia de registros relacionados.
+Sirven para filtrar datos según la relación entre las tablas cliente, chofer y guia_remision.
