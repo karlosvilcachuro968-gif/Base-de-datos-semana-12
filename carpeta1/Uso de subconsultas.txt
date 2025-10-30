@@ -1,0 +1,4 @@
+este código usa funciones y condiciones de sql para trabajar con fechas y filtros.
+in y exists muestran registros según lista o existencia.
+day, month y year separan las partes de una fecha.
+dateadd, datediff y getdate calculan fechas futuras, diferencias y la fecha actual, mostrando guías, clientes y días transcurridos.
