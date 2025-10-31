@@ -1,0 +1,4 @@
+CONCAT une textos o columnas.
+LEN mide la longitud de una cadena.
+UPPER/LOWER cambian el texto a mayúsculas o minúsculas.
+CAST/CONVERT transforman tipos de datos (por ejemplo, fecha a texto o con formato).
