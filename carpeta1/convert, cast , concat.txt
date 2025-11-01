@@ -1,0 +1,5 @@
+CONCAT: une textos y columnas para crear frases legibles.
+
+CAST: convierte valores numéricos (como capacidad) en texto para agregarlos a cadenas.
+
+CONVERT: cambia el formato de la fecha (por ejemplo, de 2025-09-01 a 01/09/2025).
