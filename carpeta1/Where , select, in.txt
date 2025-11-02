@@ -1,0 +1,3 @@
+El código crea reportes mensuales de gastos y organiza la información por tipo mediante la función PIVOT.
+Primero muestra un resumen general con todos los tipos, luego elimina los registros anteriores a 2023.
+Finalmente, genera un nuevo reporte actualizado solo con los gastos recientes, presentando los montos de cada categoría por mes. Aquí usamos select, in, y where
