@@ -1,0 +1,4 @@
+El cursor recorre los registros de la tabla chofer uno por uno.
+En cada iteración, lee el nombre (y el celular si existe) del chofer.
+Luego muestra esa información en la consola con un print.
+Finalmente, cierra y libera el cursor para evitar ocupar memoria.
