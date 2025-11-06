@@ -1,0 +1,4 @@
+Este código crea un cursor que recorre los vehículos .
+Evalúa su capacidad de carga y actualiza su estado si es menor a 25 toneladas .
+Muestra un mensaje por cada actualización realizada .
+Al final, cierra y libera el cursor para mantener la base limpia .
