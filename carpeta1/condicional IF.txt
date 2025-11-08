@@ -1,0 +1,9 @@
+Declara variables para guardar los datos de cada fila (@nombre, @experiencia).
+
+Crea un cursor que recorre todos los choferes.
+
+Abre el cursor y obtiene la primera fila.
+
+Dentro del bucle WHILE, usa IF para decidir qué mensaje imprimir según la experiencia.
+
+Cierra y libera el cursor al final.
